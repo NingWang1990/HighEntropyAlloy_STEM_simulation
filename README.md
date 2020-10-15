@@ -1,1 +1,1 @@
-# HighEntropyAlloy_STEM_simulation
+# HighEntropyAlloy STEM simulation
